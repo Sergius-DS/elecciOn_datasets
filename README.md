@@ -1,8 +1,5 @@
 # <h1 align="center">_SD_ANALYTICS_</h1>
 
-<p align="center">
-  <img src=""  height="400">
-<p align="center">
 
 ## Índice
 
