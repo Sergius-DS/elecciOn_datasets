@@ -27,26 +27,10 @@ Este proyecto busca utilizando la Ciencia de Datos, identificar características
 
 ## Requisitos
 
-- Python 3.x
-- pandas
-- matplotlib
-- seaborn
-- numpy
-- jupyter 
 
 
 ## Estructura del Proyecto
 
-- Proyecto_Final_CoderHouse/
-- ├── data/
-- │   └── raw_data/
-- │         └── Credit_card_churn.xlsx     # Archivo Excel del proyecto
-- ├── images/                              # Imagenes del Readme.
-- ├── plots/                               # Directorio con gráficos hechos en plotly.
-- ├── Proyecto_Final_Classification_Sergio_Rivera.ipynb                           # Jupyter Notebook con EDA y Modelo de Machine Learning.
-- ├── .gitignore                           # configuracion de archivos ignorados.
-- ├── README.md                            # Este archivo README.
-- └── ...
 
 ## Enlaces
 
