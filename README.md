@@ -12,7 +12,7 @@
 
 ## Descripción
 
-Este proyecto busca utilizando la Ciencia de Datos, identificar características que influyan en la deserción de clientes(Churning), así también con los datos obtenidos ver si se puede obtener revelaciones de cómo optimizar el servicio existente..
+Este proyecto busca utilizando la Ciencia de Datos, identificar características sean influyentes y puedan minorizar los gastos de hospitalizaciones en pacientes con Diabetes, de ser posible con los datos obtenidos ver si se puede obtener revelaciones de cómo optimizar el servicio existente.
 
 ## Características
 
