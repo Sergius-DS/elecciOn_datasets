@@ -1,6 +1,6 @@
 # <h1 align="center">_SD_ANALYTICS_</h1>
 <p align="center">
-  <img src="images/SD_analytics.png"  height="400">
+  <img src="images/SD_analytics_2.png"  height="400">
 <p align="center">
 
 
